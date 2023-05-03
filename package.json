@@ -12,7 +12,9 @@
   "dependencies": {
     "link": "^1.5.1",
     "react": "18.2.0",
+    "react-devtools": "^4.27.2",
     "react-native": "^0.71.4",
+    "react-native-debugger": "^1.1.0",
     "react-native-webview": "^11.26.1"
   },
   "devDependencies": {
